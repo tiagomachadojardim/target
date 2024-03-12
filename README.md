@@ -1,2 +1,2 @@
 # Target
-Repositorio dos testes da Target
+Repositório dos testes da Target
